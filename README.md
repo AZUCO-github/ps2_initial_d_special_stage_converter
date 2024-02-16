@@ -1,4 +1,5 @@
 # PS2 InitialD Special Stage converter
+https://azuco.sakura.ne.jp/column/ag_ps2id/  
 rev.2007/05/22  
   
 CRI ADX/AFSを使用しているので、とりあえずAFSコンバータを使ってAFSの中身を展開する。  
